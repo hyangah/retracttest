@@ -1,0 +1,5 @@
+github.com/hyangah/retracttest v0.0.0-20201116222946-99dcea823419 h1:47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+github.com/hyangah/retracttest/a v1.0.0 h1:fuzmOeAzp08pOh317DacCGdu9yw6UaOTz06QPnHfhFY=
+github.com/hyangah/retracttest/a v1.0.0/go.mod h1:rhfZ0KJTou0tPSOMQUzMAUxvxScbtqQRPySSUoRrQe4=
+github.com/hyangah/retracttest/b v1.0.1 h1:HeMJhO2YI0vqyB1bJaVHEXaqvEf1uBah/TvBxKlA76s=
+github.com/hyangah/retracttest/b v1.0.1/go.mod h1:soDQsC0NxlNAOGcdTVcJ8wfl3cZsI0An54J9oKB9jaU=
