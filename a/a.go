@@ -1,3 +1,3 @@
 package a
 
-var V = "a"
+var V = "malicious"
